@@ -1,0 +1,6 @@
+# One product link per line. Add "| 3500" after a link to set your own
+# target price instead of just watching for any drop below today's price.
+# Lines starting with # are ignored.
+
+https://pk.sapphireonline.pk/collections/man-perfumes/products/000000FRM042.html
+https://zerolifestyle.co/products/flow-earbuds

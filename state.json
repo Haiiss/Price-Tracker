@@ -1,0 +1,18 @@
+{
+  "https://pk.sapphireonline.pk/collections/man-perfumes/products/000000FRM042.html": {
+    "name": "Infinite Intense",
+    "base_price": 4990.0,
+    "last_price": 4990.0,
+    "last_compare_at": null,
+    "was_below_base": false,
+    "last_checked_utc": "2026-08-01T00:00+00:00"
+  },
+  "https://zerolifestyle.co/products/flow-earbuds": {
+    "name": "Flow Zbuds",
+    "base_price": 4499.0,
+    "last_price": 4499.0,
+    "last_compare_at": 24999.0,
+    "was_below_base": false,
+    "last_checked_utc": "2026-08-01T00:00+00:00"
+  }
+}
