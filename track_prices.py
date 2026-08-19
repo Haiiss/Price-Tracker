@@ -205,7 +205,7 @@ def send_ntfy(message, title=None):
     topic = os.environ.get("NTFY_TOPIC")
     if not topic:
         return
-    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
+    server = os.environ.get("NTFY_SERVER") or "https://ntfy.sh"
     try:
         headers = {"Title": title} if title else {}
         requests.post(f"{server}/{topic}", data=message.encode("utf-8"), headers=headers, timeout=15)
@@ -231,7 +231,7 @@ def send_telegram(message):
 def send_email(subject, message):
     address = os.environ.get("EMAIL_ADDRESS")
     app_password = os.environ.get("EMAIL_APP_PASSWORD")
-    to_addr = os.environ.get("EMAIL_TO", address)
+    to_addr = os.environ.get("EMAIL_TO") or address
     if not address or not app_password:
         return
     msg = MIMEText(message)
