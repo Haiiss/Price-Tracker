@@ -5,7 +5,7 @@
     "last_price": 2000.0,
     "last_compare_at": 4990.0,
     "was_below_base": true,
-    "last_checked_utc": "2026-09-03T08:31+00:00"
+    "last_checked_utc": "2026-09-03T15:44+00:00"
   },
   "https://zerolifestyle.co/products/flow-earbuds": {
     "name": "Flow Zbuds",
@@ -13,7 +13,7 @@
     "last_price": 4499.0,
     "last_compare_at": 24999.0,
     "was_below_base": false,
-    "last_checked_utc": "2026-09-03T08:31+00:00"
+    "last_checked_utc": "2026-09-03T15:44+00:00"
   },
   "https://philipspersonalcare.com.pk/product/qp1424-10-oneblade-face": {
     "name": null,
@@ -29,6 +29,6 @@
     "last_price": 4999.0,
     "last_compare_at": 12999.0,
     "was_below_base": false,
-    "last_checked_utc": "2026-09-03T08:31+00:00"
+    "last_checked_utc": "2026-09-03T15:44+00:00"
   }
 }
