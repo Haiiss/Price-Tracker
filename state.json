@@ -5,7 +5,7 @@
     "last_price": 2000.0,
     "last_compare_at": 4990.0,
     "was_below_base": true,
-    "last_checked_utc": "2026-09-03T02:50+00:00"
+    "last_checked_utc": "2026-09-03T08:31+00:00"
   },
   "https://zerolifestyle.co/products/flow-earbuds": {
     "name": "Flow Zbuds",
@@ -13,7 +13,7 @@
     "last_price": 4499.0,
     "last_compare_at": 24999.0,
     "was_below_base": false,
-    "last_checked_utc": "2026-09-03T02:50+00:00"
+    "last_checked_utc": "2026-09-03T08:31+00:00"
   },
   "https://philipspersonalcare.com.pk/product/qp1424-10-oneblade-face": {
     "name": null,
@@ -22,5 +22,13 @@
     "last_compare_at": null,
     "was_below_base": false,
     "last_checked_utc": null
+  },
+  "https://audionic.co/products/airbud-735-ion-with-anc?fbclid=Iwb21leAUGAp5wZG9mBWV4dG4DYWVtATAAYWRpZAGrN27mpqGhc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe4UUMW6Ph7HyDjnqBULw9KFKSEs_veWGM6ctP9fqUW2MTSjrl6rIRh7gQRik_aem_RG9hRhXdKVHli3Rlgd0J2w&utm_source=facebook&utm_medium=paid&campaign_id=120243623794190385&ad_id=120243623794180385&utm_id=120243623794170385_v2_s02_i97937670&utm_content=120243623794180385&utm_term=120243623794170385&utm_campaign=120243623794190385": {
+    "name": "Airbud 735 Ion with ANC",
+    "base_price": 4999.0,
+    "last_price": 4999.0,
+    "last_compare_at": 12999.0,
+    "was_below_base": false,
+    "last_checked_utc": "2026-09-03T08:31+00:00"
   }
 }
