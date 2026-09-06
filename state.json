@@ -2,18 +2,18 @@
   "https://pk.sapphireonline.pk/collections/man-perfumes/products/000000FRM042.html": {
     "name": "Infinite Intense",
     "base_price": 4990.0,
-    "last_price": 2000.0,
-    "last_compare_at": 4990.0,
-    "was_below_base": true,
-    "last_checked_utc": "2026-09-06T17:59+00:00"
+    "last_price": 4990.0,
+    "last_compare_at": null,
+    "was_below_base": false,
+    "last_checked_utc": "2026-09-06T21:55+00:00"
   },
   "https://zerolifestyle.co/products/flow-earbuds": {
     "name": "Flow Zbuds",
     "base_price": 4499.0,
-    "last_price": 4499.0,
+    "last_price": 4999.0,
     "last_compare_at": 24999.0,
     "was_below_base": false,
-    "last_checked_utc": "2026-09-06T17:59+00:00"
+    "last_checked_utc": "2026-09-06T21:55+00:00"
   },
   "https://philipspersonalcare.com.pk/product/qp1424-10-oneblade-face": {
     "name": null,
@@ -29,6 +29,6 @@
     "last_price": 4999.0,
     "last_compare_at": 12999.0,
     "was_below_base": false,
-    "last_checked_utc": "2026-09-06T17:59+00:00"
+    "last_checked_utc": "2026-09-06T21:55+00:00"
   }
 }
